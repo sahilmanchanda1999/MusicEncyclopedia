@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/accordion_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/baglama_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/baglama_working.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/banjo_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/banjo_working.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/bass_guitar.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/bongos_working.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/cello_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/cello_working.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/clarinet_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/darbuka_working.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/double_bass_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/drum_set_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/drum_set_working.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/flute_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/flute_working.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/harmonica_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/harmonica_working.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/keyboard_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/marimba_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/oboe_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/ocarina_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/piano_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/qanum_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/ramadan_drum_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/trombone_history.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/xylophone_history.txt" charset="UTF-8" />
+  </component>
+</project>

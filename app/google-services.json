@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "606813755734",
+    "firebase_url": "https://mi-encyclopedia-7ff61.firebaseio.com",
+    "project_id": "mi-encyclopedia-7ff61",
+    "storage_bucket": "mi-encyclopedia-7ff61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606813755734:android:4956a6341cbc6a3b",
+        "android_client_info": {
+          "package_name": "com.musical.instruments.encyclopedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606813755734-uiu1iraigamkpt50j71mh40qr5q37hs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBakjbASL8dy3wEg35zkjXVmR6hXczlb-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
